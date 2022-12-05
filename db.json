@@ -1,0 +1,42 @@
+{
+    "sneakers":[
+    {
+    "id":1,
+    "name": "Dunk Low Black White",
+    "imgSrc": "https://img.stadiumgoods.com/16/40/35/69/16403569_43123600_1000.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Air Force 1 low White" ,
+        "imgSrc": "https://sneakerbardetroit.com/wp-content/uploads/2020/03/Nike-Air-Force-1-Low-Triple-White-315115-112-Release-Date-4.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jordan 11 Cool Grey" ,
+        "imgSrc": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/064/535/248/original/704157_01.jpg.jpeg?action=crop&width=750"
+    },
+    {
+        "id": 4,
+        "name": "Yeezy Slide Onyx" ,
+        "imgSrc": "https://img.stadiumgoods.com/18/13/20/62/18132062_43086639_1000.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Jordan 11 Cool Grey" ,
+        "imgSrc": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/064/535/248/original/704157_01.jpg.jpeg?action=crop&width=750"
+    },
+
+    {
+        "id": 6,
+        "name": "Yeezy Slide Pure",
+        "imgSrc": "https://cdn.shopify.com/s/files/1/0415/3753/6151/products/adidas-yeezy-slide-pure-restock-pair-GW1934_2_1800x1800_d3e382fd-f292-4b0a-9a25-dd59a8d1b094_800x.webp?v=1658012491"
+    }
+    
+    
+    
+    
+    
+    
+]
+}
