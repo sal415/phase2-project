@@ -24,7 +24,7 @@ useEffect (() => {
       sneakers.map((s) => (
         <div key={s.id} className="App">
           <h2>{s.name}</h2>
-          <img src={s.imgSrc} />
+          <img id='shoes' src={s.imgSrc} />
         </div>
       ))
     }

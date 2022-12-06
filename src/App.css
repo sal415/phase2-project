@@ -46,3 +46,11 @@ width:800px;
 align-items: center;
 display:flex;
 }
+
+#shoes{
+  display: flex;
+  /* flex-direction: column; */
+  float: left;
+  width : 25%; 
+ 
+}
