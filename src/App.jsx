@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import './App.css'
-
+import LandingPage from "./LandingPage"
 
 function App() {
   const [sneakers, setSneakers] = useState([])
@@ -18,7 +18,8 @@ useEffect (() => {
 },[])
   return (
     <>
-    {/* <h2>Sneakers</h2> */}
+    <LandingPage />
+    <h2>Sneakers</h2>
     {
       sneakers.map((s) => (
         <div key={s.id} className="App">
