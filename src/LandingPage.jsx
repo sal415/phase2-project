@@ -5,7 +5,10 @@ import shoesimage from './shoesimage.gif'
 function LandingPage () {
     return(
         <>
-            <img id="gif" src={shoesimage} /> <br />
+        <div class='container'>
+            <img id="gif" src={shoesimage}/> <br />
+            <h2> Buy and Sell Deadstock Sneakers</h2>
+            </div>
             </>
             )
 

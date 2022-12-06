@@ -45,6 +45,11 @@
 width:800px;
 align-items: center;
 display:flex;
+position: absolute;
+top: 50px;
+left: 3.5in;
+right: 0px;
+bottom: 50px;
 }
 
 #shoes{
@@ -53,4 +58,16 @@ display:flex;
   float: left;
   width : 25%; 
  
+}
+
+.container{
+display:flex;
+align-items: center;
+justify-content: center;
+}
+
+.container h2{
+  position:fixed ;
+  top: 180px;
+  color:aliceblue;
 }
