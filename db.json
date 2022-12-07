@@ -3,104 +3,266 @@
     {
     "id":1,
     "name": "Dunk Low Black White",
-    "imgSrc": "https://img.stadiumgoods.com/16/40/35/69/16403569_43123600_1000.jpg"
+    "imgSrc": "https://img.stadiumgoods.com/16/40/35/69/16403569_43123600_1000.jpg",
+    "Description" : "From the school-spirited College Colors Program to the vibrant Nike CO.JP collection, Nike Dunks have seen many colorways since the design’s inception in 1985. But with each new colorway, the Dunk’s classic color-blocking has remained in some capacity. Nike put its timeless color-blocking to work with the Nike Dunk Low Retro White Black.",
+    "ReleaseYear" : "2021",
+    "Price" : "$100"
     },
 
     {
         "id": 2,
         "name": "Air Force 1 low White" ,
-        "imgSrc": "https://sneakerbardetroit.com/wp-content/uploads/2020/03/Nike-Air-Force-1-Low-Triple-White-315115-112-Release-Date-4.jpg"
+        "imgSrc": "https://sneakerbardetroit.com/wp-content/uploads/2020/03/Nike-Air-Force-1-Low-Triple-White-315115-112-Release-Date-4.jpg",
+        "Description" : "The Nike Air Force 1 Low White ‘07 features an all-white leather upper with a perforated toe box and Swoosh overlays. A Nike heel embroidery and white sole completes the design.",
+        "ReleaseYear" : "2007",
+        "Price" : "$90"
     },
     {
         "id": 3,
         "name": "Jordan 11 Cool Grey" ,
-        "imgSrc": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/064/535/248/original/704157_01.jpg.jpeg?action=crop&width=750"
+        "imgSrc": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/064/535/248/original/704157_01.jpg.jpeg?action=crop&width=750",
+        "Description" : "The Air Jordan 11 Cool Grey (2021) features a Cool Grey Durabuck upper with patent leather overlays and a signature Jumpman embroidery on the collar. From there, a white midsole and an icy blue translucent outsole complete the design.",
+        "ReleaseYear" : "2001",
+        "Price" : "$225"
     },
     {
         "id": 4,
         "name": "Yeezy Slide Onyx" ,
-        "imgSrc": "https://img.stadiumgoods.com/18/13/20/62/18132062_43086639_1000.jpg"
+        "imgSrc": "https://img.stadiumgoods.com/18/13/20/62/18132062_43086639_1000.jpg",
+        "Description" : "First revealed in February 2022 at the Donda 2 listening event in Miami, the adidas Yeezy Slide Onyx features an all-black foam construction with a soft footbed for comfort. At the base, a grooved outsole adds stability and responsiveness.",
+        "ReleaseYear" : "2022",
+        "Price" : "$70"
     },
     {
         "id": 5,
         "name": "Jordan 11 Cool Grey" ,
-        "imgSrc": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/064/535/248/original/704157_01.jpg.jpeg?action=crop&width=750"
+        "imgSrc": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/064/535/248/original/704157_01.jpg.jpeg?action=crop&width=750",
+        "Description" : "hey",
+        "ReleaseYear" : "2007",
+        "Price" : "$225"
     },
 
     {
         "id": 6,
         "name": "Yeezy Slide Pure",
-        "imgSrc": "https://cdn.shopify.com/s/files/1/0415/3753/6151/products/adidas-yeezy-slide-pure-restock-pair-GW1934_2_1800x1800_d3e382fd-f292-4b0a-9a25-dd59a8d1b094_800x.webp?v=1658012491"
+        "imgSrc": "https://cdn.shopify.com/s/files/1/0415/3753/6151/products/adidas-yeezy-slide-pure-restock-pair-GW1934_2_1800x1800_d3e382fd-f292-4b0a-9a25-dd59a8d1b094_800x.webp?v=1658012491",
+        "Description" : "The adidas Yeezy Slide Pure (Restock Pair) features a slightly different composition than the original adidas Yeezy Slide Pure that debuted in the spring of 2021. Instead of a smooth EVA foam construction, it has a pebbled, more textural touch. At the base, a grooved sole and cushioned footbed completes the design.",
+        "ReleaseYear" : "2021",
+        "Price" : "$70"
     },
-{
-    "id": 7,
-    "name": "Louis Vuitton Air Force 1's",
-    "imgSrc": "https://sothebys-com.brightspotcdn.com/dims4/default/3e861b2/2147483647/strip/true/crop/2801x2790+0+0/resize/684x681!/format/webp/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fdotcom%2F28%2Ffa%2Fe72d03eb460cb90a04990ba6e2d5%2Fthe-louis-vuitton-and-nike-air-force-1-by-virgil-abloh-1.jpg"
-},
-{
-    "id": 8,
-    "name": "Adidas Ultraboosts 22",
-    "imgSrc": "https://assets.adidas.com/images/w_600,f_auto,q_auto/4b593057a18c47d2844dad9000ecd808_9366/Ultraboost_22_Running_Shoes_Black_GX3062_01_standard.jpg"
-},
-{
-    "id": 9,
-    "name": "Nike Air Max 270",
-    "imgSrc": "https://i8.amplience.net/i/jpl/jd_019354_a?qlt=92"
-},
-{
-    "id": 10,
-    "name": "Air Jordan 4 Retro Midnight Navy",
-    "imgSrc": "https://cdn.flightclub.com/750/TEMPLATE/315862/1.jpg"
-},
-{
-    "id": 11,
-    "name": "Nike Dunk High Panda",
-    "imgSrc": "https://cdn.media.amplience.net/i/hibbett/Nike%20Panda-2-min"
-},
-{
-    "id": 12,
-    "name": "Jordan 11 Cherry",
-    "imgSrc": "https://www.stadiumgoods.com/BWStaticContent/54000/edecb4a8-4bbb-4d82-a267-66cf68c58a31_221025-ct8012-116-m-3.jpg"
-},
-{
-    "id": 13,
-    "name": "Nike Dunk Low QS Lebron James Fruity Pebbles",
-    "imgSrc": "https://sneakernews.com/wp-content/uploads/2022/07/nike-dunk-low-fruity-pebbles-lebron-james-dh8009-600-release-date-9.jpg"
-},
-{
-    "id": 14,
-    "name": "Jordan 1 Mid Light Smoke Grey",
-    "imgSrc": "https://images.stockx.com/images/Air-Jordan-1-Mid-Light-Smoke-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1606319491"
-},
-{
-    "id": 15,
-    "name": "Yeezy Slide Onyx",
-    "imgSrc": "https://images.stockx.com/images/adidas-Yeezy-Slide-Black-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&fm=webp&auto=compress&dpr=2&trim=color&updated_at=1646687426&q=75"
-},
-{
-    "id": 16,
-    "name": "Jordan 6 Retro Chrome Metallic Silver",
-    "imgSrc": "https://2app.kicksonfire.com/kofapp/upload/events_master_images/ipad_air-jordan-6-metallic-silver.jpeg"
-},
-{
-    "id": 17,
-    "name": "Nike Air Force 1 Low White",
-    "imgSrc": "https://m.media-amazon.com/images/I/81uiWMk9dnL._AC_UY1000_.jpg"
-},
-{
-    "id": 18,
-    "name": "Nike Air Force 1 Low Black",
-    "imgSrc": "https://images.stockx.com/images/Nike-Air-Force-1-07-Black-Black-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&fm=webp&auto=compress&dpr=2&trim=color&updated_at=1607050715&q=75"
-},
-{
-    "id": 19,
-    "name": "Nike Dunk Low Retro QS Argon",
-    "imgSrc": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/544/764/original/997612_01.jpg.jpeg?action=crop&width=750"
-},
-{
-    "id": 20,
-    "name": "Jordan 1 Retro High OG Chicago Lost & Found",
-    "imgSrc": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Chicago-Reimagined-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&fm=webp&auto=compress&dpr=2&trim=color&updated_at=1665691099&q=75"
-}
+    {
+        "id": 7,
+        "name": "Louis Vuitton Air Force 1's" ,
+        "imgSrc": "https://sothebys-com.brightspotcdn.com/dims4/default/3e861b2/2147483647/strip/true/crop/2801x2790+0+0/resize/684x681!/format/webp/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fdotcom%2F28%2Ffa%2Fe72d03eb460cb90a04990ba6e2d5%2Fthe-louis-vuitton-and-nike-air-force-1-by-virgil-abloh-1.jpg",
+        "Description" : "Invest in bitcoin instead",
+        "ReleaseYear" : "2022",
+        "Price" : "$2750"
+    },
+
+    {
+        "id": 8,
+        "name": "Adidas Ultraboosts 22",
+        "imgSrc": "https://assets.adidas.com/images/w_600,f_auto,q_auto/4b593057a18c47d2844dad9000ecd808_9366/Ultraboost_22_Running_Shoes_Black_GX3062_01_standard.jpg",
+        "Description" : "When you get your feet inside of a pair of adidas Ultra Boost 40 DNA White shoes you are ready to step out in style. What makes the adidas Ultra Boost 40 DNA White shoes so unique is that they offer great performance innovations with an extra splash of flair. With all that performance, wearers get a surprise when they feel the comfort that Boost technology provides. The shoes offer a lightweight Primeknit upper combined with a high-performance sole. These stylish shoes are equally at home on the track and out on the town.",
+        "ReleaseYear" : "2020",
+        "Price" : "$200"
+    },
+    {
+        "id": 9,
+        "name": "Nike Air Max 270" ,
+        "imgSrc": "https://static.nike.com/a/images/t_default/pyyixbczj6u5kiwhpjik/air-max-270-shoes-P0j2DN.png",
+        "Description" : "Crafted from a breathable mesh and canvas upper, the Nike Air Max 270 White Black now features 270 degrees of visible Air for extra comfort. Drawing inspiration from the sleek Air Max 180, the Nike Air Max 270 White Black features a slip-in bootie construction to deliver a great fit. The sneaker boasts a Max Air unit with 270 degrees of air encapsulated in the heel. The sneaker utilizes lightweight and soft neoprene across the upper to ensure airflow to the foot.",
+        "ReleaseYear" : "2018",
+        "Price" : "$160"
+    },
+
+    {
+        "id": 10,
+        "name": "Air Jordan 4 Retro Midnight Navy",
+        "imgSrc": "https://cdn.flightclub.com/750/TEMPLATE/315862/1.jpg",
+        "Description" : "The color blocking on the Air Jordan 4 Retro White Midnight Navy is identical to that on the Air Jordan OG 'Fire Red'. The upper part of Air Jordan 4 Retro is made of white tumbled leather with cement grey details on the wings and the midsole. Blue accents appear on its eyestays, the outsole, and the tongue, giving it a similar White Cement colorway, albeit with blue hints as opposed to the original black color. A blue Jumpman replaces the Nike Air logo on the heel to complete the look.",
+        "ReleaseYear" : "2022",
+        "Price" : "$210"
+    },
+
+    {
+        "id": 11,
+        "name": "Nike Dunk High Panda" ,
+        "imgSrc": "https://i.ebayimg.com/images/g/0-0AAOSwWoNiJsl4/s-l500.jpg",
+        "Description" : "The Nike Dunk High Panda brings a neutral color tone to the popular Dunk High silhouette. Smooth black and white full-grain leather make up the entire upper of the Nike Dunk High Panda (2021). A black outsole and white midsole continue the Panda motif while a University Red Nike Air Swoosh logo is embroidered on the tongue tag to add a pop of color.",
+        "ReleaseYear" : "2021",
+        "Price" : "$110"
+    },
+
+    {
+        "id": 12,
+        "name": "Jordan 11 Cherry",
+        "imgSrc": "https://images.squarespace-cdn.com/content/v1/5afceb6f5ffd2052611eff46/1660124262860-C4TK3K08AMTKAAQNQW69/air-jordan-11-cherry-2022-holiday-hallofsneakz.png?format=750w",
+        "Description" : "The Air Jordan 11 Cherry brings a Chicago colorway to the iconic patent leather sneaker. Cherry red patent leather mudguards surround the majority of the upper, alongside white leather and a matching Cherry red Jumpman. The lining features Cherry red cotton and with the signature 23 debossed on the heel tab. An icy blue outsole and Cherry red carbon fiber plate complete 2022’s Jordan 11 iteration.",
+        "ReleaseYear" : "2022",
+        "Price" : "$225"
+    },
+    {
+        "id": 13,
+        "name": "Nike Dunk Low QS Lebron James Fruity Pebbles" ,
+        "imgSrc": "https://www.dopebuzz.com.br/products/2022/08/SN_A536722B237F/lebron-james-x-nike-dunk-low-fruity-pebbles-sneaker---dh8009600_8.jpg",
+        "Description" : "The GOAT's favorite cereal had a colorway crossover with Nike",
+        "ReleaseYear" : "2022",
+        "Price" : "$120"
+    },
+
+    {
+        "id": 14,
+        "name": "Jordan 1 Mid Light Smoke Grey",
+        "imgSrc": "https://i.ebayimg.com/images/g/MZUAAOSw-zxiXDqs/s-l500.jpg",
+        "Description" : "The Air Jordan 1 Mid Light Smoke Grey represents a neutral ground between high and low-cut models. The shoe features a perforated toebox, a smooth upper made of leather with successive white inserts at the lower area, and an ankle with grey inserts on the rest of the shoe. Black laces that match with the Swoosh complete the look, while the regular branding features and grey sole with two-tone white complement the design. The shoe also has the trademark Air Jordan wings emblem.",
+        "ReleaseYear" : "2020",
+        "Price" : "$115"
+    },
+    
+    {
+        "id": 15,
+        "name": "Yeezy Slide Onyx" ,
+        "imgSrc": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/072/273/667/original/884794_01.jpg.jpeg?action=crop&width=750",
+        "Description" : "First revealed in February 2022 at the Donda 2 listening event in Miami, the adidas Yeezy Slide Onyx features an all-black foam construction with a soft footbed for comfort. At the base, a grooved outsole adds stability and responsiveness.",
+        "ReleaseYear" : "2021",
+        "Price" : "$70"
+    },
+
+    {
+        "id": 16,
+        "name": "Jordan 6 Retro Chrome Metallic Silver",
+        "imgSrc": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/877/415/original/931196_01.jpg.jpeg?action=crop&width=750",
+        "Description" : "Dressed in a Black and Metallic Silver color scheme. This Air Jordan 6 is basically a mid-top version of the Air Jordan 6 Low “Chrome” that was last seen back in 2015. It features a Black nubuck upper paired with Metallic Silver detailing atop a translucent outsole. The shoe will also come housed with special packaging.",
+        "ReleaseYear" : "2022",
+        "Price" : "$200"
+    },
+    {
+        "id": 17,
+        "name": "Crocs Classic Clog Lightning McQueen" ,
+        "imgSrc": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/055/572/475/original/769649_01.jpg.jpeg?action=crop&width=750",
+        "Description" : "The Crocs Classic Clog Lightning McQueen is an official collaboration with Disney Pixar's Cars franchise. These Lightning McQueen Crocs pay homage to the movie's lead character, who is voiced by Owen Wilson. The Crocs look is loosely based on the Chevrolet Corvette C1, a racing car produced between 1953 and 1962.",
+        "ReleaseYear" : "2021",
+        "Price" : "$50"
+    },
+
+    {
+        "id": 18,
+        "name": "Nike Air Force 1 Low Black",
+        "imgSrc": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F10%2Fnike-air-force-1-low-fresh-black-dm0211-001-release-date-1.jpg?q=75&w=800&cbr=1&fit=max",
+        "Description" : "The all-black Air Force 1 Low is a timeless classic in Nike's catalog of heritage sneakers. The Nike Air Force 1 Low '07 Black features a triple black smooth leather upper with a matching Air sole and laces. Subtle Nike Air embroidery on the heel tab nods to the history of the AF-1 line. A metallic lace tag and woven tongue label complete the design.",
+        "ReleaseYear" : "2007",
+        "Price" : "$90"
+    },
+    
+    {
+        "id": 19,
+        "name": "Nike Dunk Low Retro QS Argon" ,
+        "imgSrc": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/544/764/original/997612_01.jpg.jpeg?action=crop&width=750",
+        "Description" : "The Nike Dunk Low Retro QS Flash White Argon Blue Flash made its debut in 1985 but has since had re-releases in many versions. This sneaker is characterized by a solid deep blue tone on the base and bright blue overlays. The bright blue contrasts with the cool crisp white Nike Swoosh, white laces, white tongue, and heel tabs. The color scheme is complemented by a white and blue sole unit underfoot. The upper has cushioned midsoles for extra comfort. The navy-blue accents on the eyelets, mudguard, and heels complete the iconic design.",
+        "ReleaseYear" : "2022",
+        "Price" : "$130"
+    },
+
+    {
+        "id": 20,
+        "name": "Jordan 1 Retro High OG Chicago Lost & Found",
+        "imgSrc": "https://cdn.shopify.com/s/files/1/1656/6363/products/jordan-1-retro-high-og-lost-and-found-1-1000_800x.png?v=1668513862",
+        "Description" : "The original Air Jordan 1 Chicago colorway was first introduced in 1985 and has only been retroed a few times since. But 2022 is the year that the colorway returns with an added vintage look. Pre-yellowed accents and cracked leather uppers showcase a fabricated look of age and wear.",
+        "ReleaseYear" : "2022",
+        "Price" : "$180"
+    },
+    {
+        "id": 21,
+        "name": "" ,
+        "imgSrc": ""
+    },
+
+    {
+        "id": 22,
+        "name": "",
+        "imgSrc": ""
+    },
+    
+    {
+        "id": 23,
+        "name": "" ,
+        "imgSrc": ""
+    },
+
+    {
+        "id": 24,
+        "name": "",
+        "imgSrc": ""
+    },
+    {
+        "id": 25,
+        "name": "" ,
+        "imgSrc": ""
+    },
+
+    {
+        "id": 26,
+        "name": "",
+        "imgSrc": ""
+    },
+    
+    {
+        "id": 27,
+        "name": "" ,
+        "imgSrc": ""
+    },
+
+    {
+        "id": 28,
+        "name": "",
+        "imgSrc": ""
+    },
+    {
+        "id": 29,
+        "name": "" ,
+        "imgSrc": ""
+    },
+
+    {
+        "id": 30,
+        "name": "",
+        "imgSrc": ""
+    },
+    
+    {
+        "id": 31,
+        "name": "" ,
+        "imgSrc": ""
+    },
+
+    {
+        "id": 32,
+        "name": "",
+        "imgSrc": ""
+    },
+    {
+        "id": 33,
+        "name": "" ,
+        "imgSrc": ""
+    },
+
+    {
+        "id": 34,
+        "name": "",
+        "imgSrc": ""
+    },
+    
+    {
+        "id": 35,
+        "name": "" ,
+        "imgSrc": ""
+    },
+
+    {
+        "id": 36,
+        "name": "",
+        "imgSrc": ""
+    }
 ]
 }
