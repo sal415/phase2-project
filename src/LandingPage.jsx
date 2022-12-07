@@ -2,12 +2,12 @@ import shoesimage from './shoesimage.gif'
 
 
 
-function LandingPage () {
+function LandingPage ({addSneaker}) {
     return(
         <>
-            <img id="gif" src={shoesimage} /> <br />
-            </>
-            )
+        <img id="gif" src={shoesimage} /> <br />
+        </>
+         )
 
 }
 
