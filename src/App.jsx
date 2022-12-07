@@ -5,7 +5,6 @@ import LandingPage from "./LandingPage"
 function App() {
   const [sneakers, setSneakers] = useState([])
 
-  
 
 
 useEffect (() => {
