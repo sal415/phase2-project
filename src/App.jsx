@@ -25,6 +25,7 @@ useEffect (() => {
         <div key={s.id} className="App">
           <h2>{s.name}</h2>
           <img id='shoes' src={s.imgSrc} />
+          <p>{s.Description}</p>
         </div>
       ))
     }
