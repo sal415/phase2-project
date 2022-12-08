@@ -1,87 +1,60 @@
 import { useState, useEffect } from 'react'
-import './App.css'
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import LandingPage from "./LandingPage"
 import MyFavorites  from './MyFavorites'
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import Trade from './Trade'
-
-
+import Form from './Form'
+import Done from './Done'
+import './App.css'
 
 function App() {
   const [sneakers, setSneakers] = useState([])
   const [favorites,setFavorites] = useState([])
+  const [view1, setView1] = useState([])
 
-  
-  // const router = createBrowserRouter([
-  //   {
-  //     path: "/",
-  //     element: <MyFavorites />,
-  //   },
-  //   // {
-  //   //   path: "/",
-  //   //   element: <
-  //   // }
-  // ])
+  useEffect (() => {
+    const request = async () => {
+      let req = await fetch('http://localhost:3000/sneakers')
+      let res = await req.json()
+      setSneakers(res)
+    }
+    request()
+  },[])
 
-  
-
-
-useEffect (() => {
-  const request = async () => {
-    let req = await fetch('http://localhost:3000/sneakers')
-    let res = await req.json()
-    setSneakers(res)
-  }
-  request()
-},[])
-
-const favoriteButton = () => {
+const favoriteButton = (s) => {
   console.log('hi')
-  // return (prevstate) => {
-  // {prevstate.filter((i)=> {SetFavorites(favorites)})}
+  setFavorites([...favorites, s])
   }
-  
-  
-  const outOfStock = () => {
-    alert('Sorry, there is currently no stock available.')
-    prompt('Enter your email address so we can notify you when the item is available!')
+  const outStock = ()=> {
+    console.log('hi')
+    alert('sorry')
+    prompt('Enter your mdkin Email!')
   }
-  
-  // const sell = () => {
-    // console.log('hi')}
+
+  const sell = () => {
+    console.log('sell')
+
+  }
+  const view = (s) => {
+    console.log('view')
+    setView1([...view1, s ])
+  }
+
+  const buyNow = () => {
+    console.log('buyNow?')
+    prompt('Wheres your cash biiiiatch???')
+  }
     
     return (
       <Router>
           <Routes>
-            <Route exact path='/' element={<LandingPage favorites={favorites} sneakers={sneakers} favoriteButton={favoriteButton} />}></Route>
-            <Route exact path='/Trade' element={<Trade sneakers={sneakers} outOfStock={outOfStock} />}></Route>
+            <Route exact path='/' element={<LandingPage favorites={favorites} sneakers={sneakers} view={view} favoriteButton={favoriteButton} />}></Route>
+            <Route exact path='/Trade' element={<Trade sneakers={sneakers} outStock={outStock} sell={sell} view1={view1} buyNow={buyNow}/>}></Route>
             <Route exact path="/MyFavorites" element={<MyFavorites favorites={favorites}  />}></Route>
+            <Route exact path='/Form' element={<Form />}></Route>
+            <Route exact path='/Done' element={<Done />}></Route>
           </Routes>
         </Router>
-
-
-
-
-
-
-// <BrowserRouter>
-// <Trade sneakers={sneakers} />
-// <MyFavorites favorites={favorites} favorite={favorite} />
-// <h2>Sneakers</h2>
-// {
-  // sneakers.map((s) => (
-    //   <div key={s.id} className="App">
-    //     <h2>{s.name}</h2>
-    //     <img onClick={() =>{favorite()} } id='shoes' src={s.imgSrc} />
-    //     <p>{s.Description}</p>
-    
-    //     </div>
-    //   ))
-    // }
-    
-    // </BrowserRouter>
-    )
-    
-    
+    )  
   }
 export default App
