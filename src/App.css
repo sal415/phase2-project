@@ -71,3 +71,10 @@ justify-content: center;
   top: 180px;
   color:aliceblue;
 }
+
+.tradeImg{
+  width:25%;
+  display:flex;
+  flex-wrap: wrap;
+
+}
