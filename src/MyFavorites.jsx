@@ -9,7 +9,7 @@ import {Link} from 'react-router-dom'
             {
                 favorites.map((fav) => {
                     return(
-                        <div style={{backgroundColor: 'brown', border: '1px solid blue', height: '400px', display: 'flex', flexDirection: 'column', margin: '23px' }}>
+                        <div style={{backgroundColor: 'black', border: '1px solid blue', height: '400px', display: 'flex', flexDirection: 'column', margin: '23px',color:'white' }}>
                             <img src={fav.imgSrc} height="200px"/>
                             <p>{fav.name}</p>
                             <p>{fav.Price}</p>

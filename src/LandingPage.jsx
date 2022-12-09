@@ -19,11 +19,11 @@ function LandingPage ({sneakers,favoriteButton, view}) {
             {
             sneakers.map((s) => {
                 return(
-                    <div style={{border: '1px solid blue',backgroundColor:'brown', height: '400px', display: 'flex', flexDirection: 'column', margin: '23px'}}>
-                        <img onClick={()=>{view(s)}} id='shoes' src={s.imgSrc} height="290px" width='475px'  />
+                    <div style={{border: '1px solid blue',backgroundColor:'white', height: '400px', display: 'flex', flexDirection: 'column', margin: '23px', borderRadius:'20px'}}>
+                        <img onClick={() => { view(s) }} id='shoes' src={s.imgSrc} height="250px" width='400px' style={{ borderRadius: '20px' }}  />
                         <h3>{s.name}</h3>
                         <h3>{s.Price}</h3>
-                        <button onClick={() => {favoriteButton(s)}}>favorite</button>
+                        <button style={{ padding: '10px', borderRadius: '20px', width:'100px,', textAlign:'center' }}onClick={() => {favoriteButton(s)}}>Favorite</button>
                     </div>
                     )
                 })
